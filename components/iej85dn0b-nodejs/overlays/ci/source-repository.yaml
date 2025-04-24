@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iej85dn0b-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/iej85dn0b-nodejs
